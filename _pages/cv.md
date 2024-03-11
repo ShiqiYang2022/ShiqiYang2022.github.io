@@ -19,7 +19,7 @@ Education
 
   * Curricula: (All A/A+) Real Analysis; Microeconomics; Macroeconomics; Econometrics; Honors Calculus; Honors Linear Algebra; Probability and Mathematical Statistics
 
-  * Minor in Statistics**, GPA: 4.00/4.0  
+  * Minor in Statistics, GPA: 4.00/4.0  
     
     * Curricula: Probability Theory, Multivariate Statistical Analysis, Statistical Inference, ODE, Bayesian Statistics
 
