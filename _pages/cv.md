@@ -28,7 +28,7 @@ Work experience
 ======
 * Predoctoral Research Fellow, Stanford, 2023 - 2025 (Expected)
 
-**Curricula:** Microeconomics I (A+)
+  * Curricula: Microeconomics I (A+)
 
 
 Honors and Awards
