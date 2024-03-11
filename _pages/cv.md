@@ -18,12 +18,10 @@ Education
   * Minor in Statistics, GPA: 4.00/4.0  
     * Curricula: Probability Theory, Multivariate Statistical Analysis, Statistical Inference, ODE, Bayesian Statistics
 
-
 Work experience
 ======
 * Predoctoral Research Fellow, Stanford, 2023 - 2025 (Expected)
-  * Curricula: Microeconomics I (A+)
-
+  * Curricula: Ph.D. Microeconomics I (A+)
 
 Honors and Awards
 ======
