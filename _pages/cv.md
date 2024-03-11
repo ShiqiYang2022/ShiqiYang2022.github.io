@@ -15,7 +15,7 @@ Education
 
   * Cumulative GPA: 3.96/4.0  
 
-  * Ranking: 1/171 For Major Courses 
+  * Ranking: 1/171 for Major Courses 
 
   * Curricula: (All A/A+) Real Analysis; Microeconomics; Macroeconomics; Econometrics; Honors Calculus; Honors Linear Algebra; Probability and Mathematical Statistics
 
