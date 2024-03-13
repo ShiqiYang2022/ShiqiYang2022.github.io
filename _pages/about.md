@@ -11,4 +11,4 @@ I serve as a Predoctoral Research Fellow at Stanford Institute for Economic Poli
 
 My reseach focus on Industrial Organization.
 
-I am a sophisticated agent with hyperbolic discount function.
+I am a sophisticated agent with quasi-hyperbolic discount function.
