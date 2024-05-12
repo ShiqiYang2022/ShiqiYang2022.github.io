@@ -14,9 +14,11 @@ Education
 * B.S. in Economics, Tsinghua University, 2023
   * Cumulative GPA: 3.96/4.0; Ranked 1/171 for Major Courses 
   * Minor in Statistics, GPA: 4.00/4.0  
-  * Curricula:
+  * Curricula (All A/A+):
 
-    Math: Real Analysis; Honors Calculus; Honors Linear Algebra; Probability and Mathematical Statistics; Probability Theory; Multivariate Statistical Analysis
+    Measure Theory: Real Analysis (A+)
+    
+    Math + Stats: Honors Calculus; Honors Linear Algebra; Probability and Mathematical Statistics; Probability Theory; Multivariate Statistical Analysis
 
     Econ: Microeconomics; Macroeconomics; Econometrics; Political Economy
 
