@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-See [here](https://drive.google.com/drive/folders/1-2q-n6v91MsYpGPfZRuy3AQ3k9GRVRri).
+See [here](https://drive.google.com/file/d/1FcjMq9kvGS90zW84BMVTMWGXkh6O_HKM/view?usp=drive_link).
