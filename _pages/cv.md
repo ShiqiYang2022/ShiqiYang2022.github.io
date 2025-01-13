@@ -107,5 +107,3 @@ This paper evaluates the impact of the poverty exit mechanism on the economic gr
 **Languages**: Mandarin (Native), English (Fluent: TOEFL 112, GRE V157+Q170+AW4)  
 **Technical**: R, Python, MATLAB, Stata, LATEX, C++, Slurm, Git  
 **Interests**: Student Journalism, Running, Swimming, Piano, Chess (Elo 1750)  
-
-[Full version see [here](https://drive.google.com/file/d/1biiKxJGSIM5s3-vgZenryNFj6X8wMyGK/view?usp=drive_link).]
